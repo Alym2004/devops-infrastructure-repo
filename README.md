@@ -1,3 +1,4 @@
 # DevOps Infrastructure Repository
 This is a DevOps training project.
-Feature branch update
+UPDATED FROM readme-conflict BRANCH
+
